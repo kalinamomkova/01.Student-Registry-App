@@ -27,4 +27,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run npm audit
-        run: npm test-npm-security
+        run: npm run test-npm-security
